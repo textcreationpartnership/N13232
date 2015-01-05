@@ -116,8 +116,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:016731_0000_0F9E702099AF4D58"/>
-            <pb facs="tcp:016731_0001_0F9E7021CF7E2020" rendition="simple:additions"/>
+            <pb facs="unknown:016731_0000_0F9E702099AF4D58"/>
+            <pb facs="unknown:016731_0001_0F9E7021CF7E2020"
+                rendition="simple:additions"/>
             <p>THE CASE OF Major JOHN ANDRE, ADJUTANT-GENERAL TO THE BRITISH ARMY, Who was put to Death by the Rebels, October 2, 1780, CANDIDLY REPRESENTED: With REMARKS on the ſaid CASE.</p>
             <q>If there were no other Brand upon this odious and accurſed CIVIL WAR, than that ſingle Loſs, it muſt be moſt infamous and execrable to all Poſterity.
 <bibl>LORD CLARENDON.</bibl>
@@ -125,7 +126,7 @@
             <p>NEW-YORK: PRINTED BY JAMES RIVINGTON. MDCCLXXX.</p>
          </div>
          <div type="preface">
-            <pb facs="tcp:016731_0002_0F9E702219AC7E98"/>
+            <pb facs="unknown:016731_0002_0F9E702219AC7E98"/>
             <head>PREFACE.</head>
             <p>THE Public was much diſtreſſed at Major Andre's Death; and by that Diſtreſs, gave the higheſt Teſtimony of his Merit. The Inhabitants, within the Britiſh Lines, were equally affected with the Army; whilſt their joint Indignation manifeſtly ſhewed the ge<g ref="char:EOLhyphen"/>neral Senſe of the Injuſtice and Inhumanity with which that amiable and gallant Officer was treated by the Rebels. Thoſe who were ſo much intereſted in his Behalf, are probably deſirous of ſeeing his Caſe properly ſtated—this is done in the following Papers.</p>
             <p>The Letters that were written during the Tranſactions which proved ſo fatal to Major Andre, will beſt elucidate his Views and Conduct. Thoſe Letters, accordingly, are here produced, with other Papers ſubſervient to the ſame Purpoſe. The ſeveral Events, as they roſe, are alſo connected in a regular Series, and Facts are fairly repre<g ref="char:EOLhyphen"/>ſented. Juſtice to Major Andre's Memory, required that theſe Mat<g ref="char:EOLhyphen"/>ters ſhould be placed in a true Light; eſpecially as the Account of his Caſe and Trial, lately publiſhed by the Rebels (which is very imper<g ref="char:EOLhyphen"/>fect and partial) evidently tends to tarniſh his Character, as well as to juſtify, or at leaſt to palliate, their barbarous Treatment of him. To relate Truth, is, in this as in many other Caſes, the ſame as to refute Falſehood and Miſrepreſentation.</p>
@@ -139,7 +140,7 @@
       </front>
       <body>
          <div type="text">
-            <pb facs="tcp:016731_0003_0F9E70235F11FAC0"/>
+            <pb facs="unknown:016731_0003_0F9E70235F11FAC0"/>
             <head>CASE of MAJOR ANDRE, &amp;c.</head>
             <p>A CORRESPONDENCE having been carried on, for ſome time, between the Comman<g ref="char:EOLhyphen"/>der in Chief and Major General Arnold, through Major Andre, on a very intereſting ſubject, an interview was agreed upon to concert and adjuſt ſuch meaſures as might lead to an attainment of the object in view. Major General Arnold earneſtly urged that Major Andre, the Adjutant General, might be the perſon to repreſent his Excellency at the conference, which was acceded to. They were to meet on Monday the 11th of September, at a place called Dobb's Ferry.</p>
             <p>But the interview was unhappily defeated by an accident which could not be foreſeen, and which it was then too late to prevent. The boat that had in it Major General Arnold, was fired upon b<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -167,7 +168,7 @@ Major General Arnold, however, ſubjoined,
 <q>I ſhall ſend a perſon to Dobbe's Ferry, or on board the Vulture, on Wedneſday night the 20th inſtant, and furniſh him with a boat and flag of truce. You may depend on his ſecrecy and honour, and that your badneſs, of whatever nature, ſhall be kept a profound ſecret.</q>
 He adds,
 <q>I have encloſed a letter
-<pb n="6" facs="tcp:016731_0004_0F9E702399B688E8"/>
+<pb n="6" facs="unknown:016731_0004_0F9E702399B688E8"/>
 for a Gentleman in New-York, from one in the country, on private buſineſs, which I beg the favour of you to forward, and make no doubt he will be permitted to come at the time ap<g ref="char:EOLhyphen"/>pointed.</q>
 It can eaſily be perceived, that this letter, although it was neceſſary then that it ſhould wear the appearance of one from a farmer to a Gentleman in New-York, was in real<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -223,7 +224,7 @@ It can eaſily be perceived, that this letter, although it was neceſſary then 
             </floatingText>
             <floatingText type="letter">
                <body>
-                  <pb n="7" facs="tcp:016731_0005_0F9E702587FF9798"/>
+                  <pb n="7" facs="unknown:016731_0005_0F9E702587FF9798"/>
                   <head>The other Letter.</head>
                   <opener>
                      <salute>SIR,</salute>
@@ -268,7 +269,7 @@ This he ſaid to avoid the offer made him by Captain Sutherland, of a plain coat
             <p>Major Andre, after he had conc<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>rted ſuch meaſures with General Arnold as the nature of the ſervice required, received the General's order to return to New-York by land, in the habit he
-<pb n="8" facs="tcp:016731_0006_0F9E701E02A6E8C8"/>
+<pb n="8" facs="unknown:016731_0006_0F9E701E02A6E8C8"/>
 was <hi>forced</hi> to aſſume on his getting to ſhore; and had regular paſsports delivered to him for the protection and ſafety of his perſon. On the 23d of September, he was taken at Tarry Town. The particular circumſtances attending that unfortunate event, may be collected from two letters written by Mr. Jameſon; one to General Arnold, the other to Lieutenant Allen, both dated the 25d September, of which the following are copies.</p>
             <floatingText type="letter">
                <body>
@@ -321,7 +322,7 @@ was <hi>forced</hi> to aſſume on his getting to ſhore; and had regular paſsp
                   </opener>
                   <p>IN anſwer to your Excellency's meſſage, reſpecting your Adjutant General, Major Andre, and deſiring my idea of the reaſons why he is detained, being under my paſſports, I have the honour to inform you, Sir, that I apprehend a few hours muſt return Major Andre to your Excellency's orders, as that officer is aſſuredly under the protection of a flag of truce ſent by me to him for the purpoſe of a converſation which I requeſted to hold with him relating to myſelf, and which I wiſhed to communicate, through that officer, to your Excellency.</p>
                   <p>I commanded at the time, at Weſt-Point, had an undoubted right to ſend my flag of truce for Major Andre, who came to me under that protection, and having held my conference with him, I delivered him confidential papers in my own head writing, to deliver to your Excellency; thinking it much properer he ſhould return by land, I directed him to make uſe of the feigned
-<pb n="9" facs="tcp:016731_0007_0F9E701E59B8B398"/>
+<pb n="9" facs="unknown:016731_0007_0F9E701E59B8B398"/>
 name of John Anderſon, under which he had by my direction come on ſhore, and gave him my paſſports to go to the White Plains on his way to New-York. This officer cannot therefore fail of being immediately ſent to New-York, as he was invited to a converſation with me, for which I ſent him a flag of truce, and finally gave him paſſports for his ſafe return to your Excellency; all which I had then a right to do, being in the actual ſervice of America, under the orders of General Waſhington, and Commanding General at Weſt-Point and its dependencies.</p>
                   <closer>
                      <signed>
@@ -370,7 +371,7 @@ name of John Anderſon, under which he had by my direction come on ſhore, and g
                      </gap> you, recure to me. With all the warmth of my heart, I give you thanks for all your Excellency's profuſe kindneſs to me; and I ſend you the moſt earneſt wiſhes for your welfare, which a faithful, affectionate, and reſpectful attendant can frame.</p>
                   <p>I have a Mother and three Siſters, to whom the value of my commiſſion would be an object, as the loſs of Grenada has much affected their income. It is needleſs to be more explicit on this ſubject—I am perſuaded of your Excellency's goodneſs.</p>
                   <p>
-                     <pb n="10" facs="tcp:016731_0008_0F9E7025D9A9D6E8"/>I receive the greateſt attention from his Excellency General Waſhington, and from every other perſon under whoſe charge I happen to be placed. I have the honour to be, with the moſt reſpectful attachment, your Excellency's, &amp;c.</p>
+                     <pb n="10" facs="unknown:016731_0008_0F9E7025D9A9D6E8"/>I receive the greateſt attention from his Excellency General Waſhington, and from every other perſon under whoſe charge I happen to be placed. I have the honour to be, with the moſt reſpectful attachment, your Excellency's, &amp;c.</p>
                   <closer>
                      <signed>His Excellency Sir HENRY CLINTON.</signed>
                   </closer>
@@ -412,7 +413,7 @@ name of John Anderſon, under which he had by my direction come on ſhore, and g
                      <salute>SIR,</salute>
                   </opener>
                   <p>FROM your Excellency's letter of this date, I am perſuaded the Board of General Officers, to whom you referred the caſe of Major Andre, cannot have been rightly informed of all the circumſtances on which a judgment ought to be formed. I think it is of the higheſt moment
-<pb n="11" facs="tcp:016731_0009_0F9E702769FF86A0"/>
+<pb n="11" facs="unknown:016731_0009_0F9E702769FF86A0"/>
 to humanity that your Excellency ſhould be perfectly appriſed of the ſtate of this matter before you proceed to put that judgment in execution.</p>
                   <p>For this reaſon I ſhall ſend Lieutenant General Robertſon and two other Gentlemen to give you a true ſtate of facts, and to declare to you my ſentiments and reſolution. They will ſet out to-morrow as early as the wind and tide will permit, and wait near Dobbs's Ferry for your per<g ref="char:EOLhyphen"/>miſſion and ſafe conduct to meet your Excellency, or ſuch perſons as you may appoint, to converſe with them on this ſubject.</p>
                   <closer>
@@ -454,7 +455,7 @@ to humanity that your Excellency ſhould be perfectly appriſed of the ſtate of
                </body>
             </floatingText>
             <p>
-               <pb n="12" facs="tcp:016731_0010_0F9E7028199C1F30"/>After this conference his Excellency General Robertſon, returned on board the veſſel, and communicated the ſubſtance of it to the other gentlemen, who were not permitted to land. They were all ſo well ſatisfied with the interview, that the ſtrongeſt hopes were conceived of having a favourable anſwer from General Waſhington; and thoſe hopes they indulged till the next mor<g ref="char:EOLhyphen"/>ning, when they were alarmed at a ſhort note which came from General Green.</p>
+               <pb n="12" facs="unknown:016731_0010_0F9E7028199C1F30"/>After this conference his Excellency General Robertſon, returned on board the veſſel, and communicated the ſubſtance of it to the other gentlemen, who were not permitted to land. They were all ſo well ſatisfied with the interview, that the ſtrongeſt hopes were conceived of having a favourable anſwer from General Waſhington; and thoſe hopes they indulged till the next mor<g ref="char:EOLhyphen"/>ning, when they were alarmed at a ſhort note which came from General Green.</p>
             <floatingText type="letter">
                <body>
                   <opener>
@@ -501,7 +502,7 @@ to humanity that your Excellency ſhould be perfectly appriſed of the ſtate of
                         <desc>•</desc>
                      </gap>. I admitted that Major Andre had a great ſhare of Sir Henry's eſteem, and that he would be infinitely obliged by his liberation; and that if he was permitted to return with me, I would engage to have any perſon you would be pleaſed to name ſet at liberty.</p>
                   <p>
-                     <pb n="13" facs="tcp:016731_0011_0F9E7029134040D0"/>I added, that Sir Henry had never put any perſon to death for a breach of the rules of war, though he has had, and has now, many in his power.</p>
+                     <pb n="13" facs="unknown:016731_0011_0F9E7029134040D0"/>I added, that Sir Henry had never put any perſon to death for a breach of the rules of war, though he has had, and has now, many in his power.</p>
                   <p>Under our preſent circumſtances much good may ariſe from humanity, much ill from the want of it. If that could have any weight, I beg leave to add, that your favourable treatment of Major Andre, would be a favour I ſhould ever be intent to return to any you hold dear.</p>
                   <p>My memory does not retain, with the exactneſs I could wiſh, the words of the letter which General Green ſhewed me from Major Andre to your Excellency. For Sir Henry Clinton's ſatisfaction, I beg you will order a copy of it to be ſent to me at New-York.</p>
                   <closer>
@@ -555,7 +556,7 @@ to humanity that your Excellency ſhould be perfectly appriſed of the ſtate of
             <p>During the interval between the 2d and 4th of October, General Waſhington's anſwer to the laſt application was expected, with great impatience. This delay, or rather inattention to the application, afforded much reaſon to fear for Major Andre's ſafety; and the encreaſing anxiety of the Commander in Chief induced him to prepare another letter, which was to have been ac<g ref="char:EOLhyphen"/>companied with Capt. Sutherland's Narrative of that part of the ſubject which fell within his knowledge. The letter and narrative follow.</p>
             <floatingText type="letter">
                <body>
-                  <pb n="14" facs="tcp:016731_0012_0F9E7029F95D2670"/>
+                  <pb n="14" facs="unknown:016731_0012_0F9E7029F95D2670"/>
                   <opener>
                      <dateline>
                         <hi>New-York,</hi>
@@ -599,7 +600,7 @@ to humanity that your Excellency ſhould be perfectly appriſed of the ſtate of
             </floatingText>
             <floatingText type="letter">
                <body>
-                  <pb n="15" facs="tcp:016731_0013_0F9E7019D9A67B88"/>
+                  <pb n="15" facs="unknown:016731_0013_0F9E7019D9A67B88"/>
                   <head>Captain Sutherland's Narrative.</head>
                   <opener>
                      <dateline>
@@ -635,7 +636,7 @@ to humanity that your Excellency ſhould be perfectly appriſed of the ſtate of
             <p>The diſpatch of theſe Letters was prevented by the arrival of Major Andre's ſervant with his maſter's baggage; and an account of Major Andre's having ſuffered the barbarous ſentence of the Board of General Officers. He was executed at 12 o'clock, on the ſecond day of October, and in the Rebel camp. In conſequence of which, the Commander in Chief was pleaſed to iſſue the following orders to the army.</p>
             <floatingText type="letter">
                <body>
-                  <pb n="16" facs="tcp:016731_0014_0F9E701C070B5840"/>
+                  <pb n="16" facs="unknown:016731_0014_0F9E701C070B5840"/>
                   <opener>
                      <dateline>
                         <hi>Head Quarters, New York,</hi>
@@ -718,9 +719,9 @@ to humanity that your Excellency ſhould be perfectly appriſed of the ſtate of
                   </floatingText>
                </note>, have been alſo urged to the ſame purpoſe.</p>
             <p>
-               <pb n="17" facs="tcp:016731_0015_0F9E701C19960898"/>But there it the cleareſt evidence from the expreſs teſtimony of General Arnold, Colonel Re<g ref="char:EOLhyphen"/>binſon, and Captain Sutherland, that Major Andre went aſhore under the ſanction of a flag. The boat indeed might not have had a white flag diſplayed; but the reaſon was, that it came in the night, when a white flag could not be ſeen, and was therefore uſeleſs.</p>
+               <pb n="17" facs="unknown:016731_0015_0F9E701C19960898"/>But there it the cleareſt evidence from the expreſs teſtimony of General Arnold, Colonel Re<g ref="char:EOLhyphen"/>binſon, and Captain Sutherland, that Major Andre went aſhore under the ſanction of a flag. The boat indeed might not have had a white flag diſplayed; but the reaſon was, that it came in the night, when a white flag could not be ſeen, and was therefore uſeleſs.</p>
             <p>
-               <pb n="18" facs="tcp:016731_0016_0F9E702A59CC7E00"/>Mr. Joſhua Smith, who commanded the boat, was authoriſed by General Arnold, to go to the Vulture, and bring a ſhore the perſons ſpecified in his commiſſion. This commiſſion he pro<g ref="char:EOLhyphen"/>duced on board the Vulture; it was written by General Arnold, the officer who commanded on ſhore; and it conſtituted his boat a real flag of truce, whether it came by day or by night; whether it had, or had not, a white flag diſplayed. Thus exactly ſtands the caſe, which fully refutes the aſſertions of General Green, and the other rebel officers on this head. Indeed General Waſh<g ref="char:EOLhyphen"/>ington, conſcious that this aſſertion could not be maintained, abandons it, and gives the matter a different turn in his letter to the Commander in Chief, dated <hi>Sept.</hi> 30, 1780; although that <hi>turn</hi> makes no more againſt Major Andre, than the aſſertion that the boat was not a flag of truce.</p>
+               <pb n="18" facs="unknown:016731_0016_0F9E702A59CC7E00"/>Mr. Joſhua Smith, who commanded the boat, was authoriſed by General Arnold, to go to the Vulture, and bring a ſhore the perſons ſpecified in his commiſſion. This commiſſion he pro<g ref="char:EOLhyphen"/>duced on board the Vulture; it was written by General Arnold, the officer who commanded on ſhore; and it conſtituted his boat a real flag of truce, whether it came by day or by night; whether it had, or had not, a white flag diſplayed. Thus exactly ſtands the caſe, which fully refutes the aſſertions of General Green, and the other rebel officers on this head. Indeed General Waſh<g ref="char:EOLhyphen"/>ington, conſcious that this aſſertion could not be maintained, abandons it, and gives the matter a different turn in his letter to the Commander in Chief, dated <hi>Sept.</hi> 30, 1780; although that <hi>turn</hi> makes no more againſt Major Andre, than the aſſertion that the boat was not a flag of truce.</p>
             <p>Beſides theſe, there are other circumſtances which clearly prove that the boat to queſtion was conſidered as a true, proper flag of truce. It is evident that Mr. Smith, was not privy to General Arnold's deſigns, and that he knew nothing of Major Andre' buſineſs. In this caſe, would be have ventured to go to an enemy's ſhip of war, had he not conceived himſelf to be under the ſanction of a flag? Colonel Robinſon intended to <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>company Major Andre, but as his name was not mentioned in General Arnold's flag, he was laſt behind. When it was propoſed to man the Vulture's boat, and aſſiſt in <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -763,7 +764,7 @@ to humanity that your Excellency ſhould be perfectly appriſed of the ſtate of
                   <desc>〈◊〉</desc>
                </gap> a correſpondence, not of acting the part of a ſpy —that the change of dreſs, ſo far as it took place, (for it was only partial) was made by the ex<g ref="char:EOLhyphen"/>preſs order of General Arnold, when Major Andre was in a diſtrict where that Gentleman com<g ref="char:EOLhyphen"/>manded—that in <hi>paſſing the</hi> rebel <hi>works at Stoney and Verplank's Points,</hi> Major Andre did no more than croſs the North River at a common, public ferry, known by the name of <hi>King's Ferry,</hi> where all who travel that way are under a neceſſity of croſſing, and near which thoſe poſts hap<g ref="char:EOLhyphen"/>pen to ſtand—and that he croſſed the river there, with General Arnold's paſſports, in the <hi>evening,</hi>
                <pb n="19"
-                   facs="tcp:016731_0017_0F9E702B19E447D8"
+                   facs="unknown:016731_0017_0F9E702B19E447D8"
                    rendition="simple:additions"/>
 (when he could not take a view of thoſe poſts) merely to return by that uſual route to New-York, being prevented by an accident from returning to the Vulture, as he firſt intended.</p>
             <p>To refute theſe, and other allegations of the ſort urged by the rebels, no more is neceſſary than to declare the ſimple truth.—Firſt; that all thoſe circumſtances took place, not only with the knowledge, but by the poſitive orders of General Arnold, who commanded in that diſtrict; which wholly exculpates Major Andre from the charge of a ſpy. I would beg leave to aſk—Did not General Arnold command there at the time? While he was poſſeſſed of the command, had he not a right to iſſue his orders? Were not his orders and authority a juſt warrant and protection for Major Andre! And did they not exclude every idea of a ſpy? However the rebels might diſapprove of General Arnold's conduct, could this affect Major Andre? When they are engaged in ſuch a conteſt as the preſent, which threatens this country with utter ruin, and fervitude from France; can they think otherwiſe than that ſome of their Generals—influenced by principles of humanity and freedom, and deſirous of averting that ruin and ſervitude—will abandon ſo infa<g ref="char:EOLhyphen"/>mous a cauſe, and return to their natural and rightful Sovereign, who offers peace, ſecurity, and freedom to this country? And is it right, that on theſe occaſions, the innocent ſhould ſuffer for thoſe whom they may be pleaſed to <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -783,7 +784,7 @@ General Green in the conference at Dobbs's Ferry, amuſed Gen. Robertſon with d
 Yet Andre's deſtruction was then reſolved on; and he was executed whilſt General Robertſon lay off Dobbs's Ferry. Of a ſimilar complexion was General Green's declaration at the ſame conference—"That the army muſt be ſatisfied by ſeeing ſpies executed:" When it ap<g ref="char:EOLhyphen"/>pears from the teſtimony of ſeveral rebel officers who were preſent at the execution, and of other ſpectators, that the rebel army in general was much diſguſted and diſtreſſed at putting Major An<g ref="char:EOLhyphen"/>dre to death—many of the rebel ſoldiers melted into tears!</p>
             <p>Such duplicity and tergiverſation is very unbecoming men of honour in any caſe—in ſo ſerious a matter, where the life of a moſt worthy, innocent man, and the cauſe of humanity, were deeply concerned, it was highly criminal. The guilt on this occaſion was the more aggravated, as the charge was falſely founded; and thoſe who brought it, muſt have known it to be ſo. Every
 <pb n="20"
-                   facs="tcp:016731_0018_0F9E702BDA30FC90"
+                   facs="unknown:016731_0018_0F9E702BDA30FC90"
                    rendition="simple:additions"/>
 judicious, unprejudiced perſon muſt be clearly of opinion, that General Waſhington and the Board of rebel officers did not, and could not believe that Major Andre was really a ſpy—unleſs it be urged in their behalf, that through habitual duplicity, and reſigning themſelves to the in<g ref="char:EOLhyphen"/>fluence of preju<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -818,14 +819,14 @@ but this was rejected—the hazard of ſaving Major Andre by ſuch an equitable 
                   <desc>〈◊〉</desc>
                </gap>, it was frequently interrupted by winds and tides.</p>
             <p>
-               <pb n="21" facs="tcp:016731_0019_0F9E702C99963778"/>In addition to all this, it ſhould be obſerved, that the report of the Board of officers laid no neceſſity on General Waſhington to hurry Major Andre's execution, or to put him to death; he had it fully in his powder to ſave him, notwithſtanding their report; and there is no evidence that the Congreſs interfered in the matter, or gave any order that Major Andre ſhould be put to death. So that General Waſhington ſhould be conſidered as the MURDERER of Major Andre. This, I may venture to ſay, is the opinion of every Loyaliſt in America — it muſt be the opinion of all impartial people, in every part of the world, who know or read Major Andre's Caſe.</p>
+               <pb n="21" facs="unknown:016731_0019_0F9E702C99963778"/>In addition to all this, it ſhould be obſerved, that the report of the Board of officers laid no neceſſity on General Waſhington to hurry Major Andre's execution, or to put him to death; he had it fully in his powder to ſave him, notwithſtanding their report; and there is no evidence that the Congreſs interfered in the matter, or gave any order that Major Andre ſhould be put to death. So that General Waſhington ſhould be conſidered as the MURDERER of Major Andre. This, I may venture to ſay, is the opinion of every Loyaliſt in America — it muſt be the opinion of all impartial people, in every part of the world, who know or read Major Andre's Caſe.</p>
             <p>Whatever may be the conſequences of Major Andre's execution, (and many that are bad may follow) one is certain—it has fixed an indelible ſtain on General Waſhington's character— a ſtain which no time can efface. The reflection that he doomed this innocent and worthy Gen<g ref="char:EOLhyphen"/>tleman to death, merely to ſerve the views of ambition and policy, muſt imbitter all his future enjoyments. His name will be tranſmitted to poſterity with this hateful circumſtance—that he was the unrelenting MURDERER of Major Andre.</p>
             <p n="4">IV. It is inconceivable that perſonal reſentment againſt this Gentleman could inſtigate Gen. Waſhington to act thus. Nothing of this ſort appears; and ſo far as any thing that was perſonal might interfere, the gentle and winning manners of Major Andre would diſarm, rather than provoke reſentment, had he been a priſoner among the moſt ſavage of mankind. Some other cauſe therefore muſt have operated, and produced ſo baſe a conduct.</p>
             <p>Major Andre himſelf has hinted that "he was the victim of policy." But of what policy? Not of any certainly that tended to the honour of the American army, or advantage of the American coloniſts. It was no proof of valour in the former, or that they were engaged in a juſt cauſe; neither was the doing an ill and cruel thing any indication of fortitude in their leaders. True valour and fortitude are always generous and humane; cowardice is the reverſe—it is cruel and unforgiving. The tears ſhed by the rebel ſoldiers on the occaſion, did them honour, and exculpated them from any ſhare in the guilt: and after thus ſympathizing with this brave man, unjuſtly put to death, how can they be attached to the leader who is ſtained with his blood?</p>
             <p>With regard to the Coloniſts at large, this affair muſt prove injurious, by its tendency to raiſe a ſpirit of retaliation in the Britiſh army. Who can tell what numbers of the Coloniſts in rebel<g ref="char:EOLhyphen"/>lion may ſuffer death on this account, who might otherwiſe be ſpared? An inceaſed ſoldiery cannot always be reſtrained; to ſay nothing of the retaliation which this ſtep will not only juſtify, but demand.—On the other hand, much good and many benefits both to the rebel army and Coloniſts would have accrued from lenity, or even ſhewing juſtice to Major Andre. It would have given riſe to acts of mutual humanity, have prevented the effuſion of blood, and thereby ſoftened the horrors of this unnatural war.</p>
             <p>If then there was policy in the caſe, as undoubtedly there was, it could only relate to General Waſhington. What the object was which this political ſtroke aimed at, we are now to enquire; and probably the letter of Colonel Hamilton (General Waſhington's aide de camp) to Captain Sears, lately intercepted, may lend a clue that will guide us to the true object. Many a dark ſcheme of policy has been unravelled and brought to light by ſuch accidents. That letter is dated in October, near the time when Major Andre was executed; it was written by General Waſhing<g ref="char:EOLhyphen"/>ton's confidential friend, and therefore we cannot doubt of its containing that General's ſenti<g ref="char:EOLhyphen"/>ments; and it is written to a man who, from the beginning of this rebellion, is well known to have been a tool, employed by abler heads, to carry on the ſchemes of revolt, and forward mea<g ref="char:EOLhyphen"/>ſures that were new and difficult in the execution; by bellowing at popular meetings, and pre<g ref="char:EOLhyphen"/>paring people's minds for the reception of thoſe ſchemes and meaſures.</p>
             <p>From that letter we learn, that the leaders of this rebellion find themſelves ſtill in want of many things which are eſſential to their ſyſtem, and neceſſary to accompliſh their purpoſe; for the Colonel declares "it is impoſſible the conteſt can be much longer ſupported on the preſent
-<pb n="22" facs="tcp:016731_0020_0F9E702D5987CFF8"/>
+<pb n="22" facs="unknown:016731_0020_0F9E702D5987CFF8"/>
 footing." The articles they have not yet, but <hi>muſt have</hi> ſoon, are many; though one ſeems particularly neceſſary; and to prevent any alarm by the propoſal of it, it is very dexterouſly diſ<g ref="char:EOLhyphen"/>guiſed, diverſified, and ſhuffled in among others which are ſeemingly harmleſs. The Colonel aſſerts,
 <q>we muſt have a government with more power—we muſt have an adminiſtration dif<g ref="char:EOLhyphen"/>ferent from Congreſs, and in the hands of ſingle perſons under their orders.</q>
             </p>
@@ -841,7 +842,7 @@ footing." The articles they have not yet, but <hi>muſt have</hi> ſoon, are man
                   <desc>•</desc>
                </gap>till he was conſidered as the principal actor in the tragedy, and the moſt guilty in this dark buſineſs.</p>
             <p>The <hi>prudent</hi> General and his adherents were conſcious of this, and have uſed ſome expedients to ward off the inconveniences that might ariſe from it. Among other advocates, a truſty friend (ſuppoſed to be Colonel Hamilton) ſtepped forth, and wrote a letter which was artfully calcu<g ref="char:EOLhyphen"/>lated
-<pb n="23" facs="tcp:016731_0021_0F9E702E2CF8A648"/>
+<pb n="23" facs="unknown:016731_0021_0F9E702E2CF8A648"/>
 for the purpoſe, and has been circulated by the rebel news-papers, through every part of the continent that owns the ſway of Congreſs <note n="*" place="bottom">See a very long letter, which common ſame gave to this gentleman, and from many circumſtances the preſumption is ſtrong that it was his. It was publiſhed in the rebel news papers ſoon after Major Andre's execution; and gives a detail of his capture, trial, and death; with ſeveral circumſtances attending each, which were not known to us before. In general, facts are ſtated in this letter with tolerable candour, but they are tortured to concluſions which they will not bear. To give ſome plauſibility to his reaſoning, this gentleman obſerves—
 <q>The authoriſed maxims and practices of war, are the ſatire of human nature</q>
 He ſpeaks from experience, and what he has ſeen; having never ſerved in any war but the preſent, and in no army but that of the rebels; and with reſpect to them the obſervation is true. But the civiliſed nations of Europe, wage war in another manner, and on very different maxims; and I may affirm with General Robertſon,
@@ -859,7 +860,7 @@ By what train of ideas the concluſion is here connected with the pre<g ref="cha
             <p>But juſtice according to rebel ideas, and as applied by the rebel leaders to the preſent caſe, means no more, it ſeems, than that one or other of thoſe men <hi>muſt</hi> be a victim—<hi>ſic volo, ſic jubeo;</hi> and becauſe the one, who, in their eſtimation, deſerved to be the victim, happened to be out of their reach; the other, who, in their eſtimation, deſerved it not, <hi>muſt</hi> ſuffer, as the ſub<g ref="char:EOLhyphen"/>ſtitute of the former!</p>
             <p>
                <pb n="24"
-                   facs="tcp:016731_0022_0F9E702F32BBBB60"
+                   facs="unknown:016731_0022_0F9E702F32BBBB60"
                    rendition="simple:additions"/>This, I preſume, is one of thoſe
 <q>authoriſed maxims of war, which are the ſatire of human nature,</q>
 a moſt keen ſatire indeed on all who dare avow and practice ſuch; ambition is their only guide, the ſword their law, arbitrary will their rule of juſtice, ſuperior force their right, and ſelf-intereſt the ſpring of all their actions. Were ſuch maxims univerſally adopted, all honour, juſtice, gratitude and integrity, would ſoon be baniſhed from the earth. In truth, this gentleman undertook a taſk which was above his, or any other man's abilities, viz. To vindicate General Waſhington from the charge of injuſtice and cruelty to Major Andre; and yet do juſtice to Ma<g ref="char:EOLhyphen"/>jor Andre.</p>
@@ -878,7 +879,7 @@ But theſe men, even in an hour of danger, were treated with lenity. Their corre
             <p>An anſwer was immediately returned to General Waſhington's letter; and the aſſurances it contained,—
 <q>that Lord Cornwallis would not ſtain the luſtre of the King's arms with acts of cruelty,—that his Lordſhip is incapable of ſtraining the laws to take away the lives and liber<g ref="char:EOLhyphen"/>ties of the innocent—that if any forced conſtruction be put upon the laws by his Lordſhip, it
 <pb n="25"
-                      facs="tcp:016731_0023_0F9E702F99BC70A0"
+                      facs="unknown:016731_0023_0F9E702F99BC70A0"
                       rendition="simple:additions"/>
 will be in favour of the accuſed—and that every plea their friends can offer for them, will be humanely heard and reſpected </q>
 —Theſe aſſurances, I ſay, whilſt they reflected the higheſt honour on the author, muſt have ſtung General Waſhington to the heart, ſince his own conduct had lately been juſt the reverſe of all this; the bluſh of conſcious guilt muſt have reddened his check, whilſt he read them.</p>
@@ -900,7 +901,7 @@ Lord Falkland was <hi>accidentally</hi> killed in battle: Major Andre, contrary 
                   <desc>•</desc>
                </gap>minate the calamities of his country; and hence he plunged incautiouſly into danger, contrary to the advice of his friends: Major Andre, influenced by a ſimilar principle, expoſed himſelf too much to an ungenerous enemy. His zeal
 <pb n="26"
-                   facs="tcp:016731_0024_0F9E70305994B4C0"
+                   facs="unknown:016731_0024_0F9E70305994B4C0"
                    rendition="simple:additions"/>
 to effect a meaſure which he thought would go far towards terminating this deſtructive rebellion, without the effuſion of blood, induced him to depart from the orders of his General, and over<g ref="char:EOLhyphen"/>look the danger that threatened. Both theſe illuſtrious perſons fell, equally lamented by their friends, and revered by their enemies.</p>
             <p>A few particulars concerning the capture and execution of Major Andre, ſhall cloſe theſe remarks.</p>
@@ -929,7 +930,7 @@ to effect a meaſure which he thought would go far towards terminating this deſ
 On being aſſured that his fate and the mode of it were unavoidable,—"I am reconciled to my fate, ſays he, but not to the mode;" and after pauſing a little, he added—"It will be but a momentary pang."</p>
             <p>That dignity and firmneſs which accompanied him through every former ſtage of life, forſook him not in his laſt moments. There are many inſtances where executioners have been ſo ſtruck
 <pb n="27"
-                   facs="tcp:016731_0025_0F9E703119A1D420"
+                   facs="unknown:016731_0025_0F9E703119A1D420"
                    rendition="simple:additions"/>
 with the commanding aſpect and behaviour of thoſe they were ſent to execute, that they were unable to do their office. Something ſimilar happened, we are aſſured, at Major Andre's death. The executioner trembled, and was ſo appalled, that he could not proceed. In conſequence of this, an eye witneſs relates, that Major Andre —
 <q>ſpringing upon the cart, performed the laſt offices to himſelf with a compoſure that excited the admiration, and melted the hearts of all the be<g ref="char:EOLhyphen"/>holders—in the midſt of his enemies, he died univer<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -944,7 +945,7 @@ with the commanding aſpect and behaviour of thoſe they were ſent to execute, 
       </body>
       <back>
          <div type="appendix">
-            <pb n="28" facs="tcp:016731_0026_0F9E7031D993D618"/>
+            <pb n="28" facs="unknown:016731_0026_0F9E7031D993D618"/>
             <head>APPENDIX.</head>
             <p>ON the evening of the 8th of October <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
